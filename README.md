@@ -101,7 +101,7 @@
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfKxNq9E5GwtEjLkW9oT4_MZRC_YDms4c1XYZQ3zJj4yEaPlQ/viewform?usp=sf_link"></iframe>
   </section>  <section class="cta">
     <h2>“Be seen everywhere or be forgotten.”</h2>
-    <p>— M</p>
+    <p>— Mesud Mohammed </p>
   </section>  <footer>
     <p>&copy; 2025 Dominate with M. All rights reserved.</p>
   </footer>
